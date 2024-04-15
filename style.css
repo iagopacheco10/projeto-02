@@ -93,6 +93,10 @@ button:hover {
     background-color: #27b180;
 } 
 
+#img-woman {
+    height: 370px;
+}
+
 footer {
     font-size: 14px;
     line-height: 28px;
